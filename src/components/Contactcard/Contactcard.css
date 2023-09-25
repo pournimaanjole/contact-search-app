@@ -1,0 +1,14 @@
+.contact-detail{
+    width: 18rem;
+    border-bottom: 1px solid rgb(210, 206, 206);
+    margin: 1rem auto;
+    padding-bottom: 0.5rem;
+
+}
+.name{
+    display: block;
+    font-size: 1.2rem;
+}
+.phone{
+   color: rgb(132, 132, 132);
+}

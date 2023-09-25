@@ -1,0 +1,21 @@
+.contact-container{
+    border: 1px solid black;
+    width: 20rem;
+    margin: 2rem auto;
+
+}
+
+.contact-container p{
+    font-size: 1.2rem;
+    font-weight: 600;
+   text-align: center;
+    margin: 1rem auto;
+}
+
+.sear-input{
+    height: 2rem;
+    width:18rem;
+    margin-left: 0.7rem;
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
