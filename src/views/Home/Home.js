@@ -30,7 +30,7 @@ setcontact(filtercontact);
 setsearchterm(e.target.value);
       }} placeholder='sear here' className='sear-input'  />
 
-
+<div className='scroll-contact-detail'>
      
 {
     contact.map((contactdetail,index) =>{
@@ -38,7 +38,7 @@ const {name ,phone}=contactdetail;
 return <Contactcard key={index} name={name} phone={phone} />
     })
 }
-      
+</div>  
     </div>
 
     </>

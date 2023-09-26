@@ -18,4 +18,16 @@
     margin-left: 0.7rem;
     font-size: 1.2rem;
     font-weight: lighter;
+    padding-left: 1rem;
+}
+
+.scroll-contact-detail{
+    
+    height:33rem ;
+    overflow-y: scroll;
+
+}
+
+.scroll-contact-detail::-webkit-scrollbar{
+    width: 5px;
 }
